@@ -9,3 +9,12 @@ public class HelloWorld {
         obj.sayHello(); // calling method
     }
 }
+
+/*-----------Syntax----------------
+void methodName() {
+    // body of the method
+    // perform some action
+}
+
+ 
+ */
