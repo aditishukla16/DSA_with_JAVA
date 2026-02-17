@@ -9,7 +9,7 @@ public class reverseArraymethod3 {
         }
         System.out.println();
 
-        //reverse the array using method 3
+        //reverse the array using method 3(function)
         int i=0; int j=n-1;
         while(i<=j){
         swap(arr,i,j);
